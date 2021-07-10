@@ -1,1 +1,5 @@
 Sign In Script
+
+Enter email address
+Enter password
+Click on Sign In button
