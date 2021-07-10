@@ -1,3 +1,4 @@
 Open Browser
 click on Sign up link
 Enter data
+Click on Submit button
